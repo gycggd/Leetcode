@@ -8,6 +8,6 @@
 |  97  | [Interleaving String](https://leetcode.com/problems/interleaving-string/description/) | [DP1](https://github.com/gycggd/Leetcode/blob/master/code/97/dp1.py)\|[DP2](https://github.com/gycggd/Leetcode/blob/master/code/97/dp2.py)\|[DP3](https://github.com/gycggd/Leetcode/blob/master/code/97/dp3.py) |
 |  322  | [Coin Change](https://leetcode.com/problems/coin-change/description/) | [DFS+Efficient Pruning](https://github.com/gycggd/Leetcode/blob/master/code/322/dfs.py)\|[BFS](https://github.com/gycggd/Leetcode/blob/master/code/322/bfs.py)\|[DP](https://github.com/gycggd/Leetcode/blob/master/code/322/dp.py) |
 |  812  | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description/) | [Heron's formula](https://github.com/gycggd/Leetcode/blob/master/code/812/heron.py) |
-|  813  | [Largest Sum of Averages](https://leetcode.com/problems/coin-change/description/) | [DP](https://github.com/gycggd/Leetcode/blob/master/code/813/dp.py) |
-|  814  | [Binary Tree Pruning](https://leetcode.com/problems/coin-change/description/) | [DFS](https://github.com/gycggd/Leetcode/blob/master/code/814/dfs.py) |
-|  815  | [Bus Routes](https://leetcode.com/problems/coin-change/description/) | [BFS](https://github.com/gycggd/Leetcode/blob/master/code/815/bfs.py) |
+|  813  | [Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/description/) | [DP](https://github.com/gycggd/Leetcode/blob/master/code/813/dp.py) |
+|  814  | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/) | [DFS](https://github.com/gycggd/Leetcode/blob/master/code/814/dfs.py) |
+|  815  | [Bus Routes](https://leetcode.com/problems/bus-routes/description/) | [BFS](https://github.com/gycggd/Leetcode/blob/master/code/815/bfs.py) |
