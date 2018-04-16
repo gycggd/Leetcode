@@ -1,7 +1,7 @@
 # Leetcode Solutions
 
 |  ID  |                             Name                             |                          Python Solutions                           |                          Java Solutions                           |
-| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |  32  | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | [DP](https://github.com/gycggd/Leetcode/blob/master/code/32/dp.py)\|[Stack](https://github.com/gycggd/Leetcode/blob/master/code/32/stack.py)\|[Two Pass](https://github.com/gycggd/Leetcode/blob/master/code/32/two_pass.py) | TBA |
 |  53  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [DP1](https://github.com/gycggd/Leetcode/blob/master/code/53/dp1.py)\|[DP2](https://github.com/gycggd/Leetcode/blob/master/code/53/dp2.py)\|[DC](https://github.com/gycggd/Leetcode/blob/master/code/53/dc.py) | TBA |
 |  62  | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [DP1](https://github.com/gycggd/Leetcode/blob/master/code/62/dp1.py)\|[DP2](https://github.com/gycggd/Leetcode/blob/master/code/62/dp2.py)\|[Combination](https://github.com/gycggd/Leetcode/blob/master/code/62/combination.py) | TBA |
